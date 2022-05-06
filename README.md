@@ -29,7 +29,7 @@
 
 ## About The Project
 
-A basic demonstration of automated testing in Nest.Js with Prisma. This is the sample project of an article in DEV.to
+A basic demonstration of automated testing in Nest.Js with Prisma. This is the sample project of an [article in DEV.to.](https://dev.to/mrtinsvitor/testes-com-nestjs-e-prisma-24bo)
 
 ### Built With
 
