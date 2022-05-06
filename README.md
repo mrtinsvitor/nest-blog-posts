@@ -1,6 +1,6 @@
 # NestJs Blog Posts
 
-[![Languages](https://img.shields.io/github/languages/count/mrtins/meisterlabs-challenge)](#) [![GitHub top language](https://img.shields.io/github/languages/top/mrtins/nest-blog-posts)](#) [![Tests](https://img.shields.io/appveyor/tests/mrtins/nest-blog-posts)](#) [![License](https://img.shields.io/packagist/l/mrtins/nest-blog-posts)](#) [![Build](https://img.shields.io/appveyor/build/mrtins/nest-blog-posts)](#)
+[![Languages](https://img.shields.io/github/languages/count/mrtins/meisterlabs-challenge)](#) [![GitHub top language](https://img.shields.io/github/languages/top/mrtins/nest-blog-posts)](#) [![License](https://img.shields.io/github/license/mrtins/nest-blog-posts)](#)
 
 > A simple automated testing demo with NestJs and Prisma
 
